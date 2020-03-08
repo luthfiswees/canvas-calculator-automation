@@ -1,0 +1,19 @@
+{
+  "name": "canvas-calculator-automation",
+  "version": "1.0.0",
+  "description": "Xendit QA Assesment answer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cucumber": "./node_modules/.bin/cucumber-js"
+  },
+  "keywords": [
+    "cucumber"
+  ],
+  "author": "Luthfi Kurnia Putra",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.5",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
